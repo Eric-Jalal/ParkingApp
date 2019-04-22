@@ -31,3 +31,6 @@ should select this zone. Once a zone is selected, the background color of the zo
 changes.
 - Place a "Start parking"-button as a part of your layout. Once tapped, the app will tell which
 zone is being parked.
+
+## Disclaimer
+This code published here is originally mine and is not allowed to be used by anybody for any purposes.
