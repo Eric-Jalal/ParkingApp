@@ -32,5 +32,8 @@ changes.
 - Place a "Start parking"-button as a part of your layout. Once tapped, the app will tell which
 zone is being parked.
 
+## Problems
+- This code has a problem in polygon draweres which they are all connected together and it should not be like this, i have to fix it at some point.
+
 ## Disclaimer
 This code published here is originally mine and is not allowed to be used by anybody for any purposes.
